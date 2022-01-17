@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ ![Статистика Github](https://github-readme-stats.vercel.app/apiHil-sys)
+
 # OGE-2022-na-Python
  Решение задачек на питоне для ОГЭ 2022
 
