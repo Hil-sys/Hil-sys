@@ -11,7 +11,9 @@ ___решать в ОГЭ 15.2___
 
 __решать в ОГЭ 15.2__
 
-~~ne reshat 15.1~~
+`python I <3`
+
+~~reshat 15.1~~
 
 ![Me](https://static.zerochan.net/Iwanaga.Kotoko.full.2844373.jpg)
 
