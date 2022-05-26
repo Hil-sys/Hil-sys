@@ -17,7 +17,7 @@
 |Hil-sys_naat_Nod_Nol|Morg.gg|
 |--------------------|-------|
 |[theme.css](https://github.com/Hil-sys/sla_themes)|[MORGENSLAV.GG](https://github.com/Hil-sys/MORG.GG)|
-|![preview](https://cdn.discordapp.com/attachments/853349068771557377/955872565618962583/unknown.png)|![preview2](https://user-images.githubusercontent.com/81441961/149833037-20bc01c8-ced8-433c-b95b-0254de3039cc.png)|
+|![preview](https://cdn.discordapp.com/attachments/853349068771557377/979404859092631572/unknown.png)|![preview2](https://user-images.githubusercontent.com/81441961/149833037-20bc01c8-ced8-433c-b95b-0254de3039cc.png)|
 
 ---
  
