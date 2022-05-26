@@ -1,4 +1,4 @@
-## Hi there 👋
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey! I`m Hil-sys. Some about me: 
 
 - 😄 I'm going to go to Japan
 
@@ -11,6 +11,8 @@
 ~~reshat 15.1~~
 
 ---
+
+# My 'small' projects:
 
 |Hil-sys_naat_Nod_Nol|Morg.gg|
 |--------------------|-------|
