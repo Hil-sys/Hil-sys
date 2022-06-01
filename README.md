@@ -1,4 +1,4 @@
-## <img src="https://1.bp.blogspot.com/-_wwQ3jxD-lw/VG9V0J1-a6I/AAAAAAAAIJg/dMU-mkEfFmc/s1600/shaking_hands_hb.gif" width="0.00001px"> Hey! I`m Hil-sys. Some about me: 
+## <img src="https://1.bp.blogspot.com/-_wwQ3jxD-lw/VG9V0J1-a6I/AAAAAAAAIJg/dMU-mkEfFmc/s1600/shaking_hands_hb.gif" width="30px"> Hey! I`m Hil-sys. Some about me: 
 
 - 😄 I'm going to go to Japan
 
