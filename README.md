@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3px"> Hey! I`m Hil-sys. Some about me: 
+## <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="3000px"> Hey! I`m Hil-sys. Some about me: 
 
 - 😄 I'm going to go to Japan
 
