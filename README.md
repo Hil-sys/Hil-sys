@@ -17,7 +17,7 @@
 
 ---
 
-# My 'small' projects:
+# My small projects:
 
 |Hil-sys_naat_Nod_Nol|Morg.gg|
 |--------------------|-------|
