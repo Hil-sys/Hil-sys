@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"> Hey! I`m Hil-sys. Some about me: 
 
-- 😄 I'm going to go to Japan
+- 😄 I`m going to travel all over the world (especially in Japan)
 
 - 🐍 I <3 python
 <!--
