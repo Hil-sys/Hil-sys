@@ -29,7 +29,7 @@
 |Hil-sys`eiko|
 |------------|
 |[PJ-3](https://eiko.hil-sys.repl.co)|
-|![preview3](https://cdn.discordapp.com/attachments/853349068771557377/1084418858464575528/image.png)|
+|![preview3](https://ibb.co/LzhjppGr)|
 
 ---
  
